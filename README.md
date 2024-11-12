@@ -1,5 +1,9 @@
 **SecureSnippets**
 
+img reference example from Dr. Hale
+
+[Image alt text: Y2 image](docs/yy12.jpg)
+
 **Executive Summary**
 
 SecureSnippets revolutionizes how developers manage and share code snippets within organizations. In today's software development landscape, developers frequently reuse code fragments, but existing solutions often lack proper security controls and audit capabilities. SecureSnippets addresses this gap by providing enterprise-grade security features while maintaining the ease-of-use developers expect.
