@@ -2,7 +2,7 @@
 
 img reference example from Dr. Hale
 
-[Image alt text: Y2 image](docs/yy12.jpg)
+[Image alt text: Y2 image](./docs/yy12.jpg)
 
 **Executive Summary**
 
